@@ -1,3 +1,4 @@
 import streamlit
 streamlit.title('My Parents New Heatlhy Dinner')
-Orance, Mango, Blueberry
+streamlit.header('Breakfast Menu')
+streamlit.text(Orance, Mango, Blueberry)
